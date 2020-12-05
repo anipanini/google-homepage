@@ -57,6 +57,15 @@ a:hover {
     padding: 5px;
 }
 
+#mainContent {
+    width: 100%;
+    display: block;
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+    padding: 50px;
+}
+
 #google-logo-container {
     display: flex;
     justify-content: center;
